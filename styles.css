@@ -94,6 +94,7 @@ body {
   border-radius: 2rem;
   background-color: hsl(25, 97%, 53%);
   transition: ease-in-out 0.2s;
+  cursor:pointer;
 }
 .submit-btn:hover {
   border: none;
